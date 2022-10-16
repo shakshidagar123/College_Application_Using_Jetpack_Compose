@@ -1,0 +1,64 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Miranda House</string>
+    <string name="about_text">ABOUT</string>
+    <string name="content_text">Miranda House is a women college affiliated with Delhi University.For the past 6 years it had been #1 in NIRF Ranking. It is ranked 1st college in India according to NIRF ranking 2021. Likewise, it is accredited with a grade A+ by the NAAC and it is also ranked 1st according to India Outlook 2021 in the Science department. Miranda house offers several UG and PG courses under different specializations. Along with that, the college also offers foreign language courses and short duration certificate courses.</string>,
+    <string name="Computer">Computer Science Department</string>
+    <string name="Physics">Physics Department</string>
+    <string name="Chemistry">Chemistry Department</string>
+    <string name="Mathematics">Mathematics Department</string>
+    <string name="Botany">Botany Department</string>
+    <string name="Economics">Economics Department</string>
+    <string name="ncc">NCC</string>
+    <string name="nss">NSS</string>
+    <string name="mh_vatavaran">MH Vatavaran</string>
+    <string name="Tanz">Tanz</string>
+    <string name="enactus">Enactus</string>
+    <string name="ecell">E cell</string>
+    <string name="nccmh">National Cadet Corps,Miranda House</string>
+    <string name="nssmh">National Service Scheme,Miranda House</string>
+    <string name="mhvatavaran">The Environmental Society,Miranda House</string>
+    <string name="Tanzmh">Western Dance Society,Miranda House</string>
+    <string name="enactusmh">Enactus,Miranda House</string>
+    <string name="ecellmh">Equal Opportunity Cell,Miranda House</string>
+    <string name= "College_name">Miranda House</string>
+    <string name="University">University of Delhi</string>
+    <string name="About">About</string>
+    <string name="Department">Departments</string>
+    <string name="Society">Societies</string>
+    <string name="Residence">Residence</string>
+    <string name="back_button">Back</string>
+    <string name="about">"Miranda House Hostel is the most beautiful part of the college. It provides a liberal, nurturing environment, a home away from home.An opportunity to reside in the Miranda House Hostel, which has been home to several famous and distinguished alumnae in their formative years, is indeed a privilege. In fact, Miranda House was a Residence before it became a college, hence the name Miranda House! The residence which has grown to be a premier college of the country, was established in 1948 by the then ViceChancellor, Sir Maurice Gwyer; its foundation stone was laid by Lady Edwina Mountbatten on March 7 of the same year.
+                   "The red brick building designed by the renowned architect Walter George is an architectural delight, laid out in an aesthetically designed quadrangle enclosing wellkept gardens, paced out by bottle palms. The long corridors, the dining hall with a high arched ceiling, and the stonework balconies add to its charm. Over the last few years, extensive restoration and refurbishment work has been undertaken to preserve the heritage and restore the grandeur of its red brick facade and unique interiors.
+                   "A new hostel block has been added. It integrates well with the old Walter George construction adding to its beauty with equal grace. Located within the college campus, the residence opens on Chhatra Marg.
+        "The day to day functioning is taken care of by 2 Hostel Wardens. The hostel administrative team includes the Principal, the Vice-Principal, the Bursar, Teacher Representatives on the Hostel Committee, Resident Tutor (if any) and the Hostel Wardens.</string>
+    <string name="Accommodation">Accommodation and Amenities</string>
+    <string name="Rooms">Rooms: Miranda House Hostel offers accommodation on twin-sharing basis. In addition, 4 rooms are 4-seaters. All rooms are fully furnished. These have ergonomically designed furniture that includes a single bed with storage box and drawer and fitted mattress, bedside table, dresser, cupboard, study desk, overhang book case and chair, for individual use.</string>
+    <string name="Washrooms">Toilet Blocks: Each wing has a toilet block with hygienic facilities, geysers, and solar heaters for hot water.</string>
+    <string name="Water">Drinking Water: Each wing has a Water Cooler served by water purified by an Industrial RO.</string>
+    <string name="Hall">Dining Hall: The dining hall has a seating capacity of more than 200.</string>
+    <string name="Launderette">Launderette: The Hostel has an in-house launderette that has IFB Washing Machines and Dryers operated by specially engaged staff.</string>
+    <string name="Reading_Room">Reading Room: An AC reading room is available in the new hostel block.</string>
+    <string name="Sports">Sports Facilities: These are shared with the college. Students are encouraged to use the Fitness Centre and outdoor courts and also enroll in Aerobics, Yoga and Taekwondo sessions specially organized for them.</string>
+    <string name="Guest">Guest Accommodation: One fully furnished air-conditioned Guest Room is available for a maximum of three days for parents on payment basis. Advance booking is required.</string>
+    <string name="Wardens">Wardens: There are 2 wardens and one of them is always available in the hostel throughout the week. One of the wardens resides on the campus in quarters reserved for her. She takes care of any medical emergency in the night hours.</string>
+    <string name="Medical_Unit">Medical Unit</string>
+    <string name="Sickbay">Sickbay: A Sick Room with 2 medical beds and a patient attendant bed is located across the doctor consultation room and warden quarters. Necessary medical equipment available in the medical room includes Blood Pressure Machine, Glucometer, Nebulizer, Oxygen Cylinder, Glucose drip, etc.</string>
+    <string name="Medical">Medical Emergency Protocol: The college has a well defined protocol for efficient handling of medical emergencies, at all hours. A wheel Chair, stretcher and transport are readily available. With first aid provided, the student is rushed to WUS for professional advise.</string>
+    <string name="Counseling">Counseling Centre</string>
+    <string name="Career">Career and Education Advancement Guidance: The faculty contributes to the education and career advancement of students in a variety of ways. Students are always encouraged to discuss their plans related to higher study including research and their choice of career. They are encouraged and guided to appear for the entrance exams for post-graduate studies in prestigious institutions and universities in and outside the country.</string>
+    <string name="Psycho_Social">Psycho-Social Counseling and Guidance Centre: The college has established a Counseling Centre on the campus. Its mission is to enhance student wellbeing and offer them a meaningful and successful college experience. This entails helping them evolve as confident and well-adjusted young women capable of handling any situation.</string>
+    <string name="history_dept">History Department</string>
+    <string name="pol_sci">Poltical Science Department</string>
+    <string name="Library">Library</string>
+    <string name="about_lib">"Miranda House Library has adopted the well known motto Right Document to the Right Reader at the Right Time. It takes pride in fulfilling this inherent mission to the hilt. Over the last decade, the library has undergone renovation with great care to provide a bright and appealing ambience suffused with natural light. Technologically modern, well-stocked, well-equipped user friendly and it serves effectively its purpose as a Knowledge Resource Centre.
+
+Miranda House library is spread over three levels, It has 6 special sections, (i) Textbook; (ii) General Books; (iii) Reference Tools; (iv) Reserves; (v) Periodicals; and (vi) Braille Books. It introduced state-of-art automation of services with procurement of LIBSYS LSEase LMS package in 2001. Since then, it has followed technology enhancement as a continuous process. Recently Web-Centric OPAC has been installed. OPAC access is through 6 terminals and three touch Information Kiosks.
+
+The Electronic Resources Management Package is provided through Delhi University Library Systems (DULS). A total of 43270 e-journals and more than 100 databases are available An advanced user can search data bases available through DULS to get information on subject specific e-Journals. INFLIBNET N-List provides access to more than 97,000 e-books and 6,000 e-Journals to students and faculty members. Miranda House has invested in linking with other well established Library Resource Centres such as the American Centre Library, British Council Library and DELNET. Consequently, members can avail e-resources available on other library systems.
+
+The Library has two Digital Resource Centres. The first has 30 computers for all users to access e-resources; it also has a LCD Projector and the area can be used for orientation and training programmes. The second is the Amba Dalmia Digital Resource Centre for Visually Challenged (ADDRC)."</string>
+    <string name="Rule3">3. Issued books should be return before or exactly after 21 days. Otherwise fine will be taken.</string>
+    <string name="Rule2">2.One person can issue three books at a time.</string>
+    <string name="lib">Library</string>
+
+</resources>
